@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React from 'react';
 import {ActivityIndicator, SafeAreaView, StyleSheet, View} from 'react-native';
 import SplashScreen from 'react-native-splash-screen';
